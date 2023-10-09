@@ -1,0 +1,90 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(../images/pattern-background-desktop.svg);
+}
+
+#container{
+    width: 45vh;
+    height: 70vh;
+    background-color: white;
+    margin-top: 5%;
+    margin-left: 40%;
+    border-radius: 5%;
+}
+
+#r{
+    width: 45vh;
+    border-radius: 5% 5% 0% 0%;
+}
+
+h3{
+    text-align: center;
+    margin-top: 5%;
+}
+
+#pp{
+    text-align: center;
+    margin-top: 3%;
+    font-size: 14px;
+    color: hsl(224, 23%, 55%);
+}
+
+#aa{
+    text-align: center;
+    font-size: 14px;
+    color: hsl(224, 23%, 55%);
+}
+
+#tt{
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+    margin-top: 5%;
+    font-size: 14px;
+    background-color: aliceblue;
+    height: 8vh;
+    width: 35vh;
+    cursor: pointer;
+}
+
+#cr{
+    color: hsl(224, 23%, 55%);
+}
+#ch{
+    color:  hsl(224, 23%, 55%);;
+    margin-left: 8%;
+}
+
+#img{
+    margin-right: 20px;
+    width: 30px;
+}
+
+#scd{
+    margin-right: 20px;
+}
+#lk{
+    margin-left: 30px;
+    margin-top: 20px;
+    background-color:   hsl(245, 66%, 65%);
+    padding: 3%;
+    width: 32vh;
+    border-radius: 10px;
+}
+#ac{
+    margin-left: 37px;
+    color: white;
+    text-decoration: none;
+}
+#p{
+    text-decoration: none;
+    font-size: 14px;
+}
+#er{
+    margin-top: 10px;
+    margin-left: 90px;
+}
+
